@@ -18,6 +18,7 @@ h1 {
     background-color: #2e6da4a7 ;
     border-color: #337ab7;
     box-shadow: 1px 1px #888;
+    outline: none;
 }
 
 .btn-primary:hover, .btn-primary:focus {
